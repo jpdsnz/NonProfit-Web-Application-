@@ -1,3 +1,4 @@
+# Non Profit JavaScript-based Web Application
 The goal of this project is to build a Web-App for an organization called STAR Sponsorship Program that provides funding to underpriveleged children. 
 These are the core features of the app: 
 - Allow sponsors to securely donate through the app
