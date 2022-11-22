@@ -6,3 +6,5 @@ These are the core features of the app:
 - Add/update Newsletters
 - Add/update Success Stories of students associated with the organization
 - A visually appealing landing page that involves great storytelling to introduce sponsors to students
+
+Tools used: HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, and Firebase Cloud tools.
