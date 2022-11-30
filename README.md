@@ -11,3 +11,7 @@
 - A visually appealing landing page that involves great storytelling to introduce sponsors to students
 
 🔧 Tools used: HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, and Firebase Cloud tools.
+
+  
+ 👀 See More:
+ - [Non-profit Web Application](https://www.johnpauljones.me/star-sponsorship-web-app "Non-profit Web Application")
