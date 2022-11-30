@@ -1,6 +1,7 @@
 # 🎓 Non Profit JavaScript-based Web Application
 ![Site](https://raw.githubusercontent.com/jpdsnz/jpdsnz/main/Star.jpg)
-Goal: The goal of this project is to build a Web-App for an organization called STAR Sponsorship Program that provides funding to underpriveleged children. 
+
+🥅 Goal: The goal of this project is to build a Web-App for an organization called STAR Sponsorship Program that provides funding to underpriveleged children. 
 
 📕 Features: 
 - Allow sponsors to securely donate through the app
