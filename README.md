@@ -11,13 +11,13 @@
 - A visually appealing landing page that involves great storytelling to introduce sponsors to students
 
 ## 🔧 Tools used: 
-  - HTML 
-  - CSS 
-  - Bootstrap 
-  - JavaScript 
-  - jQuery 
-  - Node.js 
-  - Firebase Cloud tools.
+      - HTML 
+      - CSS 
+      - Bootstrap 
+      - JavaScript 
+      - jQuery 
+      - Node.js 
+      - Firebase Cloud tools
 
   
 ## 👀 See More:
