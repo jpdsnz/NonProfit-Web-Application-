@@ -8,7 +8,7 @@
       <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/css-white.png">
       <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/js-white.png">
       <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/bootstrap.png">
-      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/node.png">
+      <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/nodeJS.png">
       <img width="128" height="128" src="https://github.com/jpdsnz/jpdsnz/blob/main/firebase.png">
 </p>
 
